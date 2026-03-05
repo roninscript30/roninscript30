@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center"> RoninScript Here 👋</h1>
 
-<!--
-**roninscript30/roninscript30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Independent+Developer;Systems+%7C+Web+%7C+AI;Learning+by+Building;Code+is+the+Only+Identity" />
+</div>
 
-Here are some ideas to get you started:
+<pre>
+<i>"People's dreams never end."</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ whoami
+  roninscript
+
+$ status
+  independent developer
+
+$ domain
+  linux systems
+  web development
+  artificial intelligence
+  low level curiosity
+
+$ current-mission
+  learn how software truly works
+  from hardware to distributed systems
+
+$ philosophy
+  build > talk
+  consistency > motivation
+
+$ long-term
+  intelligent systems
+  autonomous software
+</pre>
+
+---
+
+<details>
+<summary><b>🧭 System Information</b></summary>
+
+<br/>
+
+### Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
+</div>
+
+### Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
+</div>
+
+### Currently Exploring
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tensorflow,docker" />
+</div>
+
+</details>
+
+---
