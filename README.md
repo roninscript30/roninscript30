@@ -32,29 +32,6 @@
 
 <p>I don't have everything figured out, and that's part of the journey. I'm here to <strong>learn deeply</strong>, <strong>think differently</strong>, challenge myself, and keep growing through the things I explore.</p>
 
-<br>
-
-<h3>🪐 Interests in Orbit</h3>
-
-| Orbit | Interest | Focus &amp; Exploration |
-| :---: | :--- | :--- |
-| <code>01</code> | <strong>Linux</strong> | Kernel architecture, system performance &amp; low-level workflows |
-| <code>02</code> | <strong>Systems Programming</strong> | Hardware-software boundary, memory management &amp; virtualization (KVM) |
-| <code>03</code> | <strong>AI</strong> | Machine learning foundations, neural models &amp; local inference |
-| <code>04</code> | <strong>Open Source</strong> | Transparent engineering craft, reproducible tools &amp; community contribution |
-| <code>05</code> | <strong>Engineering</strong> | First-principles problem solving, structured experimentation &amp; resilience |
-| <code>06</code> | <strong>Technology</strong> | Continuous curiosity about evolving computing systems and future frontiers |
-
-<br>
-
-<h3>⚡ Core Pillars</h3>
-
-<ul>
-  <li><code>01 // INQUIRY</code> &mdash; <strong>Questioning systems beneath the surface:</strong> Diving deep into kernel, hardware, and runtime internals.</li>
-  <li><code>02 // CREATION</code> &mdash; <strong>Turning questions into tools:</strong> Building small utilities, experimenting with local models, and prototyping.</li>
-  <li><code>03 // EVOLUTION</code> &mdash; <strong>Continuous growth:</strong> Challenging assumptions, seeking depth over hype, and disciplined learning.</li>
-</ul>
-
 <hr>
 
 <div align="center">
