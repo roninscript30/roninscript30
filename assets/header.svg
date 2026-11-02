@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 36" width="100%" height="36">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Space Mono', 'DejaVu Sans Mono', Consolas, monospace; }
+    </style>
+  </defs>
+
+  <!-- Container with Top Rounded Corners -->
+  <rect x="0.5" y="0.5" width="679" height="35.5" rx="8" ry="8" fill="#080d1a" stroke="#162238" stroke-width="1"/>
+  <line x1="0" y1="35.5" x2="680" y2="35.5" stroke="#162238" stroke-width="1"/>
+
+  <!-- Left Prompt -->
+  <text x="20" y="23" class="mono" font-size="12.5" font-weight="700">
+    <tspan fill="#10b981">&gt; </tspan>
+    <tspan fill="#e2e8f0">roninscript30 </tspan>
+    <tspan fill="#10b981">&gt; </tspan>
+    <tspan fill="#f8fafc">init</tspan>
+  </text>
+
+  <!-- Right Tags -->
+  <text x="660" y="23" text-anchor="end" class="mono" font-size="11.5" font-weight="500">
+    <tspan fill="#526e88">[ </tspan>
+    <tspan fill="#94a3b8">learning</tspan>
+    <tspan fill="#38bdf8"> / </tspan>
+    <tspan fill="#94a3b8">building</tspan>
+    <tspan fill="#38bdf8"> / </tspan>
+    <tspan fill="#94a3b8">exploring</tspan>
+    <tspan fill="#526e88"> ]</tspan>
+  </text>
+</svg>
